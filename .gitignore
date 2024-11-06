@@ -1,0 +1,114 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+.vscode/
+
+# VS Code workspace and extension settings
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/*.code-workspace
+.vscode/test-results/
+
+# Python-specific files
+*.env
+*.venv
+*.pyenv
+*.mypy_cache/
+.mypy_cache/
+.dmypy.json
+.pytest_cache/
+.pytest_cache/
+.pytype/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.coverage
+*.cover
+*.py,cover
+*.hypothesis/
+.pyre/
+.pyright/
+.cache/
+nosetests.xml
+coverage.xml
+*.log
+*.pot
+*.po
+*.mo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Sphinx documentation
+docs/_build/
+
+# Flask cache
+instance/
+.webassets-cache
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Scrapy stuff:
+.scrapy
+
+# PyBuilder
+target/
+
+# Environments
+.env
+.envrc
+venv/
+ENV/
+
+# Logs
+logs/
+*.log
+
+# Editors
+.idea/
+*.sublime*
+*.code-workspace
+
+# Backup files
+*.bak
+*.swp
+
+data/
